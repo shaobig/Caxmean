@@ -11,3 +11,8 @@ _Picture 1. An illustration of the Leistner system. A forgotten word will be ret
 - If something needs to be corrected, the user can activate the context menu in order to add, edit and delete the information about the card via UI;
 - As a user I'm able to keep and store a list of cards inside the card collection;
 - The user can edit the information like card collection name or priority value. The manipulations with the date properties including "creation time" and "updated time" are managed by the application logic.
+
+## Technologies
+- The project build was conducted by Gradle;
+- The basic set of the Android SDK tools like activities, Intent extras for object serialization, event-driven paradigm etc.;
+- SQLite and Room library.
