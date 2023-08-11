@@ -4,7 +4,7 @@ Caxmean is a mobile application on the Android platform that helps a user to stu
 Caxmean recommends and prompts a user to utilise a strict but more effective Leitner system _(see picture 1)_ for the repetitive exercises. Continuous and persistent education during the long period of time may reinforce the memory and fix firmly the vocabulary or the key information.
 
 ![image](https://github.com/shaobig/Caxmean/assets/54940461/bb0f2855-706b-493f-9219-6328be76974e)
-_Picture 1 - An illustration of the Leistner system. A forgotten word will be returned back to the box containing the words with the weakest memorisation factor._
+_Picture 1. An illustration of the Leistner system. A forgotten word will be returned back to the box containing the words with the weakest memorisation factor._
 
 ## User story
 - As a user I can create a card that includes five meanings on the one side and five translations on the other side associated by a flashcard entity;
